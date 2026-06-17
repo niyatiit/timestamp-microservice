@@ -57,10 +57,20 @@ GET /api
 
 ---
 
+## 🌐 Live Demo
+
+This project is deployed on Render.
+
+👉 Base URL: [https://your-render-app.onrender.com](https://timestamp-microservice-0jam.onrender.com)
+
+### Try these endpoints:
+- /api
+- /api/2015-12-25
+- /api/1451001600000
 ### 🔹 Get timestamp from date (string or Unix)
 
 GET /api/:date
 
 👉 Accepts:
-- Date string (e.g. 2015-12-25)
-- Unix timestamp (e.g. 1451001600000)
+- Date string (e.g. 2005-01-07)
+- Unix timestamp (e.g. 1105056000000)
